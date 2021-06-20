@@ -26,6 +26,7 @@ Partial Class final
             cookieLabel.Text &= "E-mail = " & email & "<br/>"
         Else 
             cookieLabel.Text="多鍵Cookie不存在"
+
         End If
     End Sub
 
